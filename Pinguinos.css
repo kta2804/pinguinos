@@ -1,0 +1,113 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background:url(../imagen/pingu.jpg);
+	
+	background-attachment:fixed;
+}
+
+header{
+	margin:auto;
+	width:100%;
+	max-width:2000px;
+	overflow:hidden;
+}
+
+header nav{
+	overflow:hidden;
+	background:black;
+	width:100%;
+	max-width:2000px;
+}
+header nav ul li{
+	font-size:20px;
+	float:left;
+	padding:10px;
+}
+
+header nav ul{
+	list-style:none;
+}
+
+a{
+	text-decoration:none;
+	color:blue;
+	padding:10px;
+}
+
+li:hover{
+	background:white;
+}
+
+a:hover{
+	color:black;
+}
+
+a:active{
+	color:red;
+}
+
+footer{
+	background:blue;
+	color:white;
+	overflow:hidden;
+}
+
+h2{
+	padding:20px;
+	float:left;
+	padding-left:230px;
+}
+
+ .cuadro{
+	background:lightgray;
+	margin:20px auto;
+	width:100%;
+	max-width:900px;
+	overflow:hidden;
+}
+
+.cuadro .parrafo{
+	background:lightblue;
+	width:90%;
+	max-width:900px;
+	float:left;
+	padding:50px;
+	text-align:justify;
+	font-size:20px;
+}
+
+.cuadro .imagen{
+	float:left;
+	width:50%;
+	padding:60px;
+	padding-right:10px;
+}
+
+.cuadro img{
+	width:100%;
+	max-width:600px;
+	height:auto;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
